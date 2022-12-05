@@ -1,0 +1,36 @@
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\pantallas.exe.config
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\pantallas.exe
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\pantallas.pdb
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\negocio.dll
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\dominio.pdb
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\bin\Debug\negocio.pdb
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.csproj.AssemblyReference.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.frmInicio.resources
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.Properties.Resources.resources
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.csproj.GenerateResource.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.csproj.CopyComplete
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.exe
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.pdb
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.frmAgregar.resources
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\pantallas\obj\Debug\pantallas.frmDetalle.resources
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\pantallas.exe.config
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\pantallas.exe
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\pantallas.pdb
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\negocio.dll
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\dominio.pdb
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\bin\Debug\negocio.pdb
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.csproj.AssemblyReference.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.frmDetalle.resources
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.frmInicio.resources
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.frmAgregar.resources
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.Properties.Resources.resources
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.csproj.GenerateResource.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.csproj.CopyComplete
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.exe
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\pantallas\obj\Debug\pantallas.pdb

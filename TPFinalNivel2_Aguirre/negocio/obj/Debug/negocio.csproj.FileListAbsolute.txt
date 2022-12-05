@@ -1,9 +1,0 @@
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\bin\Debug\negocio.dll
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\bin\Debug\negocio.pdb
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\bin\Debug\dominio.dll
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\bin\Debug\dominio.pdb
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\obj\Debug\negocio.csproj.CopyComplete
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\obj\Debug\negocio.dll
-C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\negocio\obj\Debug\negocio.pdb

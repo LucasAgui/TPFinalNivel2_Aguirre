@@ -1,0 +1,12 @@
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\bin\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\bin\Debug\dominio.pdb
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\obj\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Desktop\Curso C# NIVEL 2\TPFinal\TPFinalNivel2_LucasAguirre\dominio\obj\Debug\dominio.pdb
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\bin\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\bin\Debug\dominio.pdb
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\obj\Debug\dominio.dll
+C:\Users\Lucas Aguirre\Downloads\TPFinalNivel2_Aguirre\dominio\obj\Debug\dominio.pdb
